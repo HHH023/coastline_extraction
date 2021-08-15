@@ -10,3 +10,7 @@ cnn_sea_land_classify.ipynb includes the construction of the sea and land datase
 cnn_seg.ipynb presents the process of coastline segmentation using the trained neural network, including image dividing and stitching, and post-processing.
 
 https://code.earthengine.google.com/?scriptPath=users%2Fjingyuhu98%2Fsea_land_classification%3ACART_algorithm is the code on GEE for performing CART.
+
+https://drive.google.com/drive/folders/1Q-ngsKUGT1kGfwioB3fbf2rGXxXJHhp9?usp=sharing is the link for training set of Sea/Land dataset.
+
+https://drive.google.com/drive/folders/1R4DENIY1mvPjLabbKWGL7UTDpnUwfbJV?usp=sharing is the link for testing set of Sea/Land dataset.
